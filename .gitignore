@@ -1,0 +1,6 @@
+# Ignore all .file
+*.file
+
+.DS_Store
+
+.idea/*
